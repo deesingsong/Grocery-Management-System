@@ -1,7 +1,7 @@
-# Project Name
+# Grocery Management System
 
 ## Description
-This project is a [brief description of your project]. It includes functionalities such as [list some of the key features or functionalities]. The project is implemented using Python and utilizes a SQL Server database for data storage.
+This project is a grocery management system. The project is implemented using Python and utilizes an SQL Server database from MSSQL for data storage.
 
 ## Table of Contents
 - [Installation](#installation)
