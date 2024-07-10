@@ -1,7 +1,7 @@
-﻿# Grocery-Management-System
+# Project Name
 
 ## Description
-This project is a grocery management system. The project is implemented using Python and utilizes a SQL Server database from MSSQL for data storage.
+This project is a [brief description of your project]. It includes functionalities such as [list some of the key features or functionalities]. The project is implemented using Python and utilizes a SQL Server database for data storage.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,8 +15,8 @@ To install and set up this project, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/deesingsong/Grocery-Management-System.git
+    cd Grocery-Management-System
     ```
 
 2. **Set up a virtual environment:**
@@ -36,8 +36,8 @@ To install and set up this project, follow these steps:
     import pyodbc
 
     def get_db_connection():
-        server = 'JONSNEWFLOPPY'
-        database = 'YourDatabaseName'
+        server = 'Your_Server_Name'
+        database = 'groceries_db'
         trusted_connection = 'yes'
 
         try:
